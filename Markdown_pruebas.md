@@ -17,24 +17,17 @@ A més podem incloure codi, tant de forma inline: `com ara aquest text`, com cod
 String hola="Hola Món";
 System.Out.Println(hola);
 `
-## Noves Seccions
+## Nuevas Secciones
 
 ### Citas
-Podemos utilizar citas para resaltar texto. Por ejemplo:
+> Esto es una cita.
 
-> Això és una cita.
-
-### Línia horitzontal
-Podemos agregar una línea horizontal para separar secciones:
-
+### Línea horizontal
 ---
 
-### Taules
-También podemos crear tablas utilizando la siguiente sintaxis:
+### Tablas
 
-| Encapçalament 1 | Encapçalament 2 |
-| --------------- | --------------- |
-| Cela 1,1        | Cela 1,2        |
-| Cela 2,1        | Cela 2,2        |
-
-Esto añadirá una tabla con dos filas y dos columnas. Puedes personalizar el número de filas y columnas según tus necesidades.
+| Encabezado 1 | Encabezado 2 |
+| ------------ | ------------ |
+| Celda 1,1     | Celda 1,2     |
+| Celda 2,1     | Celda 2,2     |
